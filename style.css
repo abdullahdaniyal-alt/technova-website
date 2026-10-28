@@ -153,7 +153,7 @@
 
 /* teestemoila backgroun */
 #testimonials {
-    background: url("img/darktestimonialBackground.png") no-repeat center / cover;
+    background: url("darktestimonialBackground.png") no-repeat center / cover;
     background-size: cover;
     padding: 50px 0;
     position: relative;
